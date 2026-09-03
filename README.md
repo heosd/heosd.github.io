@@ -10,6 +10,7 @@
 # Web
 - [Web components](https://heosd.github.io/wc/)
 - [AsciiMap](https://heosd.github.io/asciimap/)
+- [WebSerial](https://heosd.github.io/webserial/)
 
 # Office
 - [HWPX Table](https://heosd.github.io/hwpx/)
